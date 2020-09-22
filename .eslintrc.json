@@ -31,6 +31,7 @@
       }
     ],
     "import/prefer-default-export": "warn",
-    "react/no-array-index-key": "warn"
+    "react/no-array-index-key": "warn",
+    "react/no-access-state-in-setstate": "warn"
   }
 }
